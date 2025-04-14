@@ -1,2 +1,5 @@
-# profile
-About me
+# Bio
+Mattijs Lasore is a multidisciplinary professional blending a background in kinesiology, athletics, and data analytics. Born in South Africa and raised in Belgium, he was introduced to programming and data at an early age while studying electricity and electronics. His journey later took him to the United States on a full athletic scholarship to play Division I football at William & Mary, where he completed his undergraduate degree in Kinesiology.
+
+While pursuing his Master of Science in Business Analytics (MSBA) at the Raymond A. Mason School of Business at William & Mary, Mattijs rediscovered his passion for programming and data—this time through the lens of solving real-world problems with impact. With a deep understanding of the human body and performance from his kinesiology background, Mattijs is especially interested in the intersection of data and health, and how data-driven insights can improve well-being, optimize performance, and support evidence-based decision-making in the healthcare and fitness industries.
+
